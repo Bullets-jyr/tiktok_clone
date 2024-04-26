@@ -1,6 +1,6 @@
 # tiktok_clone
 
-TICKTOK CLONE
+TikTok Clone
 
 ## Getting Started
 
